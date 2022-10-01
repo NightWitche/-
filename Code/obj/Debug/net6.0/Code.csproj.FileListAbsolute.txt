@@ -1,0 +1,15 @@
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\bin\Debug\net6.0\Code.exe
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\bin\Debug\net6.0\Code.deps.json
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\bin\Debug\net6.0\Code.dll
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\bin\Debug\net6.0\Code.pdb
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.dll
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\refint\Code.dll
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.pdb
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+C:\Users\facem\OneDrive\Рабочий стол\Итоговая контрольная\Code\obj\Debug\net6.0\ref\Code.dll
